@@ -1,9 +1,5 @@
 const Discord = require("discord.js");
 
-const ytdl = require('ytdl-core');
-
-const YoutubeDL = require('youtube-dl');
-
 const client = new Discord.Client();
 
 const config = require("./config.json");
