@@ -3,12 +3,12 @@
 }
 
 {
-  "name": "Test",
-  "description": "Test",
-  "version": "0.0.0",
-  "main": "bot.js",
+  "name": "Castiel",
+  "description": "Lapiz Rebooted's Chasing Time Bot",
+  "version": "1.0.0",
+  "main": "app.js",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node app.js"
   },
   "dependencies": {
     "discord.js": "11.1.0",
